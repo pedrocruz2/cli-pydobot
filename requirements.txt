@@ -2,3 +2,4 @@ inquirer
 pydobot
 pyserial
 typer
+flet
