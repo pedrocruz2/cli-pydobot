@@ -1,6 +1,4 @@
-import yaspin
 import inquirer
-import time
 from classes.robo import Robo
 class Comandos():
     def __init__(self,port): 
